@@ -1,0 +1,26 @@
+{
+  "name": "AgendaBackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.3.0",
+    "mongoose": "^6.0.2",
+    "mysql": "^2.18.1",
+    "ngrok": "^4.2.2",
+    "nodemon": "^2.0.12",
+    "onesignal-node": "^3.3.0",
+    "peer": "^0.6.1",
+    "sha256": "^0.2.0",
+    "socket.io": "^4.1.3",
+    "twilio": "^3.67.2",
+    "validator": "^13.6.0"
+  }
+}

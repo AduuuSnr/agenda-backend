@@ -1,0 +1,25 @@
+Splash - Auth
+    - Input
+    - Switch
+    - Button
+Bottom Navigation 
+    - React Navigation (?)
+    - Custom Olması Gerekebilir Bkz : Incredibly Hard Drawer
+Calendar - Schedule Tasks
+    - Calendar Strip
+    - Task View
+    - MultiSelect Calendar da var 
+Incredibly Hard Drawer Animation
+    - Soner Bey Ellerden Öper
+    - 2 Animated View Çözer Diye Düşünüyorum 
+Task Creation 
+    - Calendar Picker
+    - Location Pick & Edit => Maps
+    - Image Picker & S3
+Notification
+    - OneSignal
+Chat 
+    - Gifted Chat
+    - Voice Call (?)
+Teams
+    - Team View
